@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\bin\Debug\net6.0\DZ_2_43.exe
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\bin\Debug\net6.0\DZ_2_43.deps.json
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\bin\Debug\net6.0\DZ_2_43.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\bin\Debug\net6.0\DZ_2_43.dll
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\bin\Debug\net6.0\DZ_2_43.pdb
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\obj\Debug\net6.0\DZ_2_43.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\obj\Debug\net6.0\DZ_2_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\obj\Debug\net6.0\DZ_2_43.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\obj\Debug\net6.0\DZ_2_43.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\obj\Debug\net6.0\DZ_2_43.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\obj\Debug\net6.0\DZ_2_43.dll
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\obj\Debug\net6.0\refint\DZ_2_43.dll
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\obj\Debug\net6.0\DZ_2_43.pdb
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\obj\Debug\net6.0\DZ_2_43.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar S-2\Lessions\Lession_6\DZ_2_43\obj\Debug\net6.0\ref\DZ_2_43.dll
